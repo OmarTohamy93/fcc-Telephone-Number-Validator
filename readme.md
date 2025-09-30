@@ -1,3 +1,5 @@
+Final design 
+<img width="345" height="527" alt="Telephone_Number_Validator" src="https://github.com/user-attachments/assets/704ca7ad-c9e1-4007-8c32-7907dfee6beb" />
 In the US, phone numbers can be formatted in many ways. Here are some examples of valid formats for US phone numbers:
 
 1 555-555-5555
@@ -55,3 +57,4 @@ When the #user-input element contains 11 555-555-5555 and the #check-btn element
 When the #user-input element contains a valid US number and the #check-btn element is clicked, the #results-div element should contain the text "Valid US number: " followed by the number.
 When the #user-input element contains an invalid US number and the #check-btn element is clicked, the #results-div element should contain the text "Invalid US number: " followed by the number.
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+
